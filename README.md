@@ -1,0 +1,1 @@
+Dumb little discord bot that yell Rocky Horror callbacks when you say a character's name
