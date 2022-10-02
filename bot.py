@@ -20,7 +20,9 @@ async def on_message(message):
         "dr. scott": "Suck my cock!",
         "doctor scott": "Suck my cock!",
         "rocky": "Bullwinkle!",
-        'frank n furter': 'ilise is gay lol'
+        "frank n furter": "ilise is gay lol",
+        "eddie": "Dinner?!"
+
     }
 
     lower = message.content.lower()
